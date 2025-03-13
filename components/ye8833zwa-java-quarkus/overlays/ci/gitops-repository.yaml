@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: ye8833zwa-java-quarkus-gitops-repository
+spec:
+  url: https://github.com/chetna14manku-org/ye8833zwa-java-quarkus-gitops
